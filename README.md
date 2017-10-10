@@ -1,9 +1,5 @@
 # React Quiz
 
-[View demo](http://mitchgavan.github.io/react-multi-choice-quiz/)
-
-Created with [Create React App](https://github.com/facebookincubator/create-react-app)
-
 ## Get Started
 Install dependencies in your project directory with:
 ### `npm install`
