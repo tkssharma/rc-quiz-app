@@ -1,5 +1,9 @@
 # React Quiz
 
+### component tree 
+![alt text](screens/03.png "")
+![alt text](screens/04.png "")
+
 ## Get Started
 Install dependencies in your project directory with:
 ### `npm install`
