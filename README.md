@@ -1,6 +1,9 @@
 # React Quiz
 
-### component tree 
+### component tree
+![alt text](screens/01.png "")
+![alt text](screens/02.png "")
+
 ![alt text](screens/03.png "")
 ![alt text](screens/04.png "")
 
